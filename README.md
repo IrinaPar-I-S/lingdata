@@ -1,3 +1,3 @@
 # lingdata
 
-Here you can fid some stuff.
+Here you can find some stuff.
