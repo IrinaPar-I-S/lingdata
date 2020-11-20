@@ -515,7 +515,7 @@
 512	/	/	PUNCT	_	_	_	_	_	words@e1972f#@e1972f#75.53#75.785
 513	???	???	INTJ	_	_	_	_	_	words@e1972f#@e1972f#75.785#76.04
 514	/	/	PUNCT	_	_	_	_	_	words@e1972f#@e1972f#76.04#76.295
-515	?…	????????????	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	_	_	_	words@e1972f#@e1972f#76.295#76.55
+515	?Â…	????????????	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	_	_	_	words@e1972f#@e1972f#76.295#76.55
 516	/	/	PUNCT	_	_	_	_	_	words@e1972f#@e1972f#76.55#76.805
 517	??????????	????????????	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	_	_	_	words@e1972f#@e1972f#76.805#77.06
 518	/	/	PUNCT	_	_	_	_	_	words@e1972f#@e1972f#77.06#77.315
@@ -897,7 +897,7 @@
 894	/	/	PUNCT	_	_	_	_	_	words@ib1973m#@ib1973m#254.682#254.87
 895	??	??	PROPN	_	Foreign=Yes	_	_	_	words@ib1973m#@ib1973m#262.06#262.333
 896	/	/	PUNCT	_	_	_	_	_	words@ib1973m#@ib1973m#262.333#262.606
-897	????…	????	X	_	_	_	_	_	words@ib1973m#@ib1973m#262.606#262.879
+897	????Â…	????	X	_	_	_	_	_	words@ib1973m#@ib1973m#262.606#262.879
 898	/	/	PUNCT	_	_	_	_	_	words@ib1973m#@ib1973m#262.879#263.152
 899	??	??	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	words@ib1973m#@ib1973m#263.152#263.425
 900	???	???	PART	_	_	_	_	_	words@ib1973m#@ib1973m#263.425#263.698
